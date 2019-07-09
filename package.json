@@ -1,0 +1,19 @@
+{
+  "name": "apis-and-microservices-certification",
+  "version": "1.0.0",
+  "description": "Node Certification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahabuddinAhmed/Apis-And-Microservices-Certification.git"
+  },
+  "author": "Shahabuddin Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahabuddinAhmed/Apis-And-Microservices-Certification/issues"
+  },
+  "homepage": "https://github.com/ShahabuddinAhmed/Apis-And-Microservices-Certification#readme"
+}
